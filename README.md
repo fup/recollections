@@ -8,6 +8,7 @@ Base repo to manage development of all the recollections things.
 * App
 
 == Bootstrap ==
+
 `rake`
 
 You should not need to make any commits to this super-repo after init.

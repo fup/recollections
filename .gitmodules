@@ -1,0 +1,6 @@
+[submodule "stroller"]
+	path = stroller
+	url = git@github.com:fup/recollections-stroller.git
+[submodule "puppet"]
+	path = puppet
+	url = git@github.com:fup/recollections-puppet.git

@@ -1,4 +1,11 @@
 recollections
 =============
 
-Rewrite of Recollections to make it usable
+Base repo to manage development of all the recollections things.
+
+* Vagrant
+* Puppet
+* App
+
+== Bootstrap ==
+```rake``

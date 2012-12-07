@@ -4,3 +4,6 @@
 [submodule "puppet"]
 	path = puppet
 	url = git@github.com:fup/recollections-puppet.git
+[submodule "app"]
+	path = app
+	url = git@github.com:fup/recollections-app.git

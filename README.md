@@ -16,4 +16,4 @@ This is just to make things clean.
 
 ## Usage
 * Puppet Modules for Guest Machines should be placed in the `recollections/puppet/modules` directory. 
-*Node management is handled in `recollections/puppet/manifests/site.pp`
+* Node management is handled in `recollections/puppet/manifests/site.pp`
